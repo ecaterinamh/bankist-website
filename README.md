@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Portfolio App
+# BANKIST WEBSITE
 
 My very first project after I freshly graduated the Web Development Course at IT School.
 
